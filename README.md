@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RameshMJ23
+- 👋 Hi, I’m Ramesh
 - 👀 I’m interested in app developement
 - 🌱 I’m currently learning Flutter
 - 📫 reach me @rameshkrish022000@gmail.com 
